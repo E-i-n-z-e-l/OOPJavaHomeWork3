@@ -16,7 +16,9 @@ public class Main {
         }
 
         list.remove("Два");
+
         System.out.println("\n===========================================================================\n");
+
         for (String item : list) {
             System.out.println(item);
         }
