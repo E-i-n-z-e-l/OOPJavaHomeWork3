@@ -1,4 +1,6 @@
-
+/*
+Класс Node
+ */
 
 public class Node<T> {
 /*
